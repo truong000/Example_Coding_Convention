@@ -1,0 +1,16 @@
+D:\TraIning GMO\WEEK_2\QuadraticEquation2\QuadraticEquation2\bin\Debug\net5.0\QuadraticEquation2.exe
+D:\TraIning GMO\WEEK_2\QuadraticEquation2\QuadraticEquation2\bin\Debug\net5.0\QuadraticEquation2.deps.json
+D:\TraIning GMO\WEEK_2\QuadraticEquation2\QuadraticEquation2\bin\Debug\net5.0\QuadraticEquation2.runtimeconfig.json
+D:\TraIning GMO\WEEK_2\QuadraticEquation2\QuadraticEquation2\bin\Debug\net5.0\QuadraticEquation2.runtimeconfig.dev.json
+D:\TraIning GMO\WEEK_2\QuadraticEquation2\QuadraticEquation2\bin\Debug\net5.0\QuadraticEquation2.dll
+D:\TraIning GMO\WEEK_2\QuadraticEquation2\QuadraticEquation2\bin\Debug\net5.0\ref\QuadraticEquation2.dll
+D:\TraIning GMO\WEEK_2\QuadraticEquation2\QuadraticEquation2\bin\Debug\net5.0\QuadraticEquation2.pdb
+D:\TraIning GMO\WEEK_2\QuadraticEquation2\QuadraticEquation2\obj\Debug\net5.0\QuadraticEquation2.csproj.AssemblyReference.cache
+D:\TraIning GMO\WEEK_2\QuadraticEquation2\QuadraticEquation2\obj\Debug\net5.0\QuadraticEquation2.GeneratedMSBuildEditorConfig.editorconfig
+D:\TraIning GMO\WEEK_2\QuadraticEquation2\QuadraticEquation2\obj\Debug\net5.0\QuadraticEquation2.AssemblyInfoInputs.cache
+D:\TraIning GMO\WEEK_2\QuadraticEquation2\QuadraticEquation2\obj\Debug\net5.0\QuadraticEquation2.AssemblyInfo.cs
+D:\TraIning GMO\WEEK_2\QuadraticEquation2\QuadraticEquation2\obj\Debug\net5.0\QuadraticEquation2.csproj.CoreCompileInputs.cache
+D:\TraIning GMO\WEEK_2\QuadraticEquation2\QuadraticEquation2\obj\Debug\net5.0\QuadraticEquation2.dll
+D:\TraIning GMO\WEEK_2\QuadraticEquation2\QuadraticEquation2\obj\Debug\net5.0\ref\QuadraticEquation2.dll
+D:\TraIning GMO\WEEK_2\QuadraticEquation2\QuadraticEquation2\obj\Debug\net5.0\QuadraticEquation2.pdb
+D:\TraIning GMO\WEEK_2\QuadraticEquation2\QuadraticEquation2\obj\Debug\net5.0\QuadraticEquation2.genruntimeconfig.cache

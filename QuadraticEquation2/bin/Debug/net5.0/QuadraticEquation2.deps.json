@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "QuadraticEquation2/1.0.0": {
+        "runtime": {
+          "QuadraticEquation2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "QuadraticEquation2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
